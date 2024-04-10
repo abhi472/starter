@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Apps10x</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="undo_string">RETRY</string>
+</resources>

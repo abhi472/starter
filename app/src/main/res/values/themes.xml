@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Apps10x" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Theme.Apps10x.xml" parent="Theme.AppCompat.DayNight.NoActionBar" />
+
+</resources>
